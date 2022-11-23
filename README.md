@@ -1,4 +1,4 @@
-# Yearn Open Issues Browser
+# Yearn Open Issues Drowser
 
 - Check it out: [contribute.yearn.farm](https://contribute.yearn.farm)
 
